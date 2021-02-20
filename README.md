@@ -5,7 +5,7 @@ A program to extract and view EXIF data stored in photo headers
 
 **css**, **includes** and **templates** are site root mapped.
 
-**tools** is not necessary.
+**tools** is not necessary, per se, as a folder. The contents, quite the reverse.
 
 **exif** can be renamed to any image folder.
 
