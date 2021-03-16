@@ -17,7 +17,7 @@ Can be veiwed at http://my.tenfingers.net/tools/exif/
 
 More can be said about the usage. To be clear, so long as the library is centrally located, along with the template folder, the three HTML pages, index.php, viewer.php and thumbnail.php can be mounted into any folder that contains image files. Will need to go into the code to see what formats are discoverd, but it's very likely confined to JPEG and PNG since it is a photo navigator.
 
-There is no code to edit when images are added to the folder. To be clear, there is never any need to edit the code. One might edit the image Comment in their photo editor (we use GIMP), and possibly scale or otherwise filter, etc. the image locally. The image is simply mounted on the host site by uploading to a folder that contains the above three files. Refresh the navigator page and the image will be there as a thumbnail with attendant EXIF information as applies, or is available. 
+There is no code to edit when images are added to the folder. To be clear, there is never any need to edit the code. One might edit the image Comment in their photo editor (we use GIMP), and possibly scale or otherwise filter, etc. the image locally. The image is simply mounted on the host site by uploading to a folder that contains the above three files. Refresh the navigator page and the image will be there as a thumbnail with attendant header information as applies, or is available. 
 
 If there is a GPS array in the header *1, it will be parsed and translated to a Wikimapia.org URL, in addition to being written to the photo description.
 
