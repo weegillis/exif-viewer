@@ -21,6 +21,6 @@ There is no code to edit when images are added to the folder. To be clear, there
 
 If GPS data is written into the image header EXIF array, it will be parsed and translated to a Wikimapia.org URL, in addition to being written to the photo description.
 
-From what memory serves, the navigator can be written into an existing page template as a required object. (Sorry, that site is now down.) In other words it can be dropped into any page layout without modification. Attribution goes without saying, otherwise thie is a free license.
+From what memory serves, the navigator can be written into an existing page template as a required object. (Sorry, that site is now down.) In other words it can be dropped into any page layout without modification. Attribution goes without saying, otherwise this is a free license.
 
 Unless one has PHP locally, this cannot be implemented as a local standalone. One would be interested to see any ported versions in Node.js. Tag me in if this is ever forked for that purpose. A lot more users would have access to this feature if they could utilize it on their own machine to see what information is stored by their camera.
